@@ -1,0 +1,12 @@
+{
+    "name": "yellotravel/react-v8",
+    "authors": [
+        {
+            "name": "hyunju38",
+            "email": "hj.choi@yellotravel.com"
+        }
+    ],
+    "require": {
+        "reactjs/react-php-v8js": "^1.0"
+    }
+}
